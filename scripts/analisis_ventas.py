@@ -49,3 +49,10 @@ plt.tight_layout()
 plt.savefig("resultados/grafico_ventas.png", dpi=150)
 plt.show()
 print("\n✅ Gráfico guardado en resultados/grafico_ventas.png")
+
+# ============================================================
+# REVISIÓN QA — P3 (Luis)
+# - Verificado: sin datos sensibles expuestos
+# - Verificado: rutas relativas correctas
+# - Verificado: código comentado y reproducible en Colab
+# ============================================================
