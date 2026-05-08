@@ -20,5 +20,3 @@ Script Python que procesa datos de ventas para calcular:
 - Producto más vendido
 - Ventas por mes
 - Gráfico de evolución de ventas
-
-## Estructura del Repositorio
