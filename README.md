@@ -3,9 +3,9 @@
 ## Integrantes
 | Julián Salcedo Scardino |
 
-| P1 – Líder y Organizador (Hugo) | TU NOMBRE COMPLETO |
-| P2 – Desarrollador Técnico (Paco) | TU NOMBRE COMPLETO |
-| P3 – Revisor y QA (Luis) | TU NOMBRE COMPLETO |
+| P1 – Líder y Organizador (Hugo) | Julián Salcedo Scardino |
+| P2 – Desarrollador Técnico (Paco) | Julián Salcedo Scardino |
+| P3 – Revisor y QA (Luis) | Julián Salcedo Scardino |
 
 ## Escenario Elegido
 **Escenario B – Análisis de Ventas de una Pequeña Empresa**
