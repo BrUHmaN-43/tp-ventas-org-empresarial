@@ -137,4 +137,4 @@ PROY-4: Generar gráfico y exportar resultados
 | Herramienta | Enlace |
 |-------------|--------|
 | Repositorio GitHub | [tp-ventas-org-empresarial](https://github.com/BrUHmaN-43/tp-ventas-org-empresarial) |
-| Tablero Jira | *(agregar enlace al tablero compartido)* |
+| Tablero Jira | *(https://salcedoscardino456.atlassian.net/jira/software/projects/PROY/boards/36)* |
