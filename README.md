@@ -27,6 +27,7 @@ El proyecto analiza un conjunto de datos simulados de ventas comerciales con el 
 
 ## 🗂️ Estructura del Repositorio
 
+```
 tp-ventas-org-empresarial/
 │
 ├── datos/
@@ -40,8 +41,7 @@ tp-ventas-org-empresarial/
 │
 ├── README.md                    # Documentación del proyecto
 └── .gitignore                   # Exclusión de archivos innecesarios
-
----
+```
 
 ## 📦 Dataset Utilizado
 
